@@ -53,11 +53,3 @@ Al procesar una venta, la aplicación ejecuta un bloque transaccional controlado
    python inventario.py
    ```
 4. El programa creará automáticamente la base de datos local (`inventario_tienda.db`) y mostrará el menú interactivo en la consola.
-
-## 6. Evidencias de Ejecución (Pantallazos)
-
-*(Adjunta en esta sección tus capturas de pantalla de la consola ejecutando el programa)*
-*Menú interactivo y registro de productos*: Vista de la consola agregando componentes.
-*Registro de venta exitosa*: Comprobación del descuento de stock.
-*Historial de ventas*: Visualización del reporte utilizando la consulta con `JOIN`.
-*Prueba de Rollback*: Demostración del error controlado donde el sistema cancela la operación y protege los datos.
